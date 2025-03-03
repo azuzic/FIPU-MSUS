@@ -23,10 +23,10 @@
 **Ustanova**: [Sveučilište Jurja Dobrile u Puli](https://www.unipu.hr/), [Fakultet informatike u Puli](https://fipu.unipu.hr/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skripte/Logo/FIPU_UNIPU_white.png">
-  <source media="(prefers-color-scheme: light)" srcset="./Skripte/Logo/FIPU_UNIPU">
+  <source media="(prefers-color-scheme: dark)" srcset="./Logos/FIPU_UNIPU_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./Logos/FIPU_UNIPU">
   <img alt="Fakultet informatike u Puli (materijali iz kolegija Programsko inženjerstvo - Alesandro Žužić)" 
-       src="./Skripte/Logo/FIPU_UNIPU_white" width="300">
+       src="./Logos/FIPU_UNIPU_white" width="300">
 </picture>
 
 ---
